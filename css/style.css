@@ -18,7 +18,7 @@
 }
 
 html, body {
-  font-family: 'Spoqa Han Sans Neo', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'GmarketSans', -apple-system, BlinkMacSystemFont, sans-serif;
   background: var(--bg);
   color: var(--text);
   min-height: 100vh;
@@ -233,7 +233,7 @@ html, body {
   color: var(--text-sub);
   cursor: pointer;
   padding: 14px 0;
-  font-family: 'Spoqa Han Sans Neo', sans-serif;
+  font-family: 'GmarketSans', sans-serif;
 }
 .sub-view h2 {
   font-size: 26px;
@@ -259,7 +259,7 @@ html, body {
   cursor: pointer;
   margin-top: 12px;
   transition: all 0.15s;
-  font-family: 'Spoqa Han Sans Neo', sans-serif;
+  font-family: 'GmarketSans', sans-serif;
   letter-spacing: -0.3px;
 }
 .action-btn:active { transform: scale(0.98); }
@@ -301,7 +301,7 @@ html, body {
   font-weight: 500;
   cursor: pointer;
   transition: all 0.15s;
-  font-family: 'Spoqa Han Sans Neo', sans-serif;
+  font-family: 'GmarketSans', sans-serif;
   color: var(--text-sub);
 }
 .tag-chip.active {
@@ -600,7 +600,7 @@ html, body {
   font-size: 15px;
   font-weight: 700;
   cursor: pointer;
-  font-family: 'Spoqa Han Sans Neo', sans-serif;
+  font-family: 'GmarketSans', sans-serif;
   letter-spacing: -0.3px;
 }
 .btn-retry {

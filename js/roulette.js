@@ -75,7 +75,7 @@ const Roulette = {
       ctx.rotate(startAngle + arc / 2);
       ctx.textAlign = 'right';
       ctx.fillStyle = '#333';
-      ctx.font = 'bold 11px "Spoqa Han Sans Neo", sans-serif';
+      ctx.font = 'bold 11px "GmarketSans", sans-serif';
       const name = this.items[i].name.length > 7
         ? this.items[i].name.slice(0, 7) + '..'
         : this.items[i].name;
